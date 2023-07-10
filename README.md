@@ -1,1 +1,1 @@
-Project: Automatic Control Project
+Cascaded PID control of a linear servo base unit
